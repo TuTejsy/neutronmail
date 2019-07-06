@@ -1,0 +1,29 @@
+/* Titillium Web */
+
+@font-face {
+    font-family: "Titillium Web";
+    font-weight: 400;
+    src: local("Titillium Web"),
+         url("../fonts/TitilliumWeb/TitilliumWeb-Regular.ttf");
+  }
+@font-face {
+    font-family: "Titillium Web";
+    font-weight: 600;
+    src: local("Titillium Web"),
+         url("../fonts/TitilliumWeb/TitilliumWeb-SemiBold.ttf");
+  }
+@font-face {
+    font-family: "Titillium Web";
+    font-weight: 700;
+    src: local("Titillium Web"),
+         url("../fonts/TitilliumWeb/TitilliumWeb-Bold.ttf");
+  }
+  
+
+ @font-face {
+   font-family: 'Malaga OTCE';
+   font-weight: 400;
+   font-style: italic;
+   src: local("Malaga OTCE"),
+        url("../fonts/MalagaOT-RegItalic.otf");
+ }
